@@ -17,7 +17,7 @@ const Home = ({show,setShow}) => {
             <h1>SOLKAR</h1>
             <p>Web Devloper</p>
             <div className='btns'>
-            <Link to={"https://res.cloudinary.com/diqtivexe/image/upload/v1733996549/Khizar_Solkar_ruxyxg.pdf"} target='_blank'>Resume</Link>
+            <Link to={"https://res.cloudinary.com/diqtivexe/image/upload/v1734348136/portfoilio_nei92h.pdf"} target='_blank'>Resume</Link>
             <Link  to={"/portfolio"} target='_blank'>Portfolio</Link>
 
           </div>
