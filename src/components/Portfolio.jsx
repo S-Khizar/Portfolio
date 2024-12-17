@@ -10,7 +10,7 @@ const Portfolio = ({ show, setShow }) => {
       title: "Culinary compass",
       category: "ReactJs Frontend Application",
       thumbnail: "/restaurant.png",
-      projectUrl: "https://culinary-compass-lmpk.vercel.app/recipes",
+      projectUrl: "https://culinary-compass-lmpk.vercel.app/",
     },
     {
       _id: "2",
